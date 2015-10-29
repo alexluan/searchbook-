@@ -1,4 +1,8 @@
-
-  pod 'OCMock', '~> 2.1.1'
+pod 'SDURLCache', '~> 1.3'  
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'Reachability', '~> 3.2'
+pod 'SSPullToRefresh','~>1.1.2'
+pod 'SDWebImage', '~> 3.5.1'  
+pod 'OCMock', '~> 2.1.1'
   pod 'Expecta', '~> 0.2.1'
-  pod 'AFNetworking', :path => '../'
+  pod 'AFNetworking', '~> 1.3.2'
